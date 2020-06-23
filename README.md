@@ -1,7 +1,9 @@
 # vue-router-back-intercept
 一个路由回退拦截的插件，因为vue-router没有提供对路由回退的监听，所以我就在路由拦截的基础上手撸了一个。
 
-在main.js里import后
+npm install vue-router-back-intercept --save
+
+import vueRouterBackIntercept from 'vue-router-back-intercept';
 
 Vue.use(vueRouterBack,{router,whiteList,name});
 

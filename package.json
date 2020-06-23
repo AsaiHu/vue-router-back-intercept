@@ -1,8 +1,13 @@
 {
   "name": "vue-router-back-intercept",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Intercept router back in vue",
   "main": "index.js",
+  "keywords": [
+    "back",
+    "vue",
+    "vue-router"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
