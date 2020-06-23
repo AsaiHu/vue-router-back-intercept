@@ -1,0 +1,19 @@
+{
+  "name": "vue-router-back-intercept",
+  "version": "1.0.0",
+  "description": "Intercept router back in vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsaiHu/vue-router-back-intercept.git"
+  },
+  "author": "AsaiHu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AsaiHu/vue-router-back-intercept/issues"
+  },
+  "homepage": "https://github.com/AsaiHu/vue-router-back-intercept#readme"
+}
